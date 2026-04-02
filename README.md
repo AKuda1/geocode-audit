@@ -33,10 +33,10 @@ Contains calculated distances and classification flags
 
 #### Interactive Map
 
-Blue = correct location
-Green = accurate
-Orange = needs review
-Red = incorrect
+- Blue = correct location
+- Green = accurate
+- Orange = needs review
+- Red = incorrect
 Lines show deviation between expected and actual coordinates
 ### Example Use Case
 
