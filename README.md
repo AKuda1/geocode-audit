@@ -8,7 +8,7 @@ This project identifies inaccurate geographic coordinates by comparing stored ge
 To detect and flag incorrect geocodes using distance-based validation and visualize discrepancies on an interactive map.
 
 ### Dataset
-US cities dataset (Kaggle)
+US cities dataset (Kaggle) https://www.kaggle.com/datasets/mohamedyabdelaziz/us-cities
 Includes: city, state, latitude, longitude, ZIP code
 ### Methodology
 - Load location dataset
