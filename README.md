@@ -51,7 +51,7 @@ This workflow can be applied to:
 Small errors in geocodes can significantly impact routing efficiency and operational decision-making. This project demonstrates a scalable approach to identifying and prioritizing these discrepancies.
 
 ### Future Improvements
-Integrate real address geocoding APIs
-Add clustering for route optimization
-Build dashboard for monitoring geocode quality
-Automate data validation pipeline
+- Integrate real address geocoding APIs
+- Add clustering for route optimization
+- Build dashboard for monitoring geocode quality
+- Automate data validation pipeline
